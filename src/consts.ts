@@ -45,6 +45,9 @@ export const SIDEBAR: Sidebar = {
   //     "Another Section": [{ text: "Page 4", link: "en/page-4" }],
   //   },
   ja: {
-    "Section Header": [{ text: "Top", link: "ja/top" }],
+    "About me": [
+      { text: "Top", link: "ja/top" },
+      { text: "逆張りについて", link: "ja/gyakubari" },
+    ],
   },
 };
