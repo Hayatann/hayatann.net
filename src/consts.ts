@@ -49,5 +49,6 @@ export const SIDEBAR: Sidebar = {
       { text: "Top", link: "ja/top" },
       { text: "逆張りについて", link: "ja/gyakubari" },
     ],
+    // Blog: [{ text: "新学期について", link: "ja/shingakki" }],
   },
 };
