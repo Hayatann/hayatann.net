@@ -1,5 +1,5 @@
 export const SITE = {
-  title: "Hayatann.com",
+  title: "hayatann.net",
   description: "Your website description.",
   defaultLanguage: "ja",
 } as const;
