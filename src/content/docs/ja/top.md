@@ -26,11 +26,13 @@ Hayatann のホームページ兼ブログです。[astro](https://astro.build/)
 思想といっても怪しい方の思想ではなく，単純にこういう考えですよーっていうだけです(これが好きっていうのに近い)。
 
 - OS: ArchLinux
-- デスクトップ環境: i3-wm / fctix-skk
-- エディタ: VSCode, JetBrainsIDE, Sublime Text, Vim など
+- デスクトップ環境: i3-wm / fcitx5-skk
+- エディタ: VSCode, JetBrainsIDE, Sublime Text4, Vim など
+- ブラウザ: Firefox-developer-edition
 - キーボード: HHKB
-- レポート: LaTeX
+- レポート: LuaLaTeX
 - スマホ: メイン → iPhone12 サブ → Google Pixel3
+- エナドリ: RedBull
 - 信仰: 特にこの宗派というのはありませんが日本の神様は信じています
 
 ### 触ったことのある言語，技術
@@ -46,10 +48,12 @@ Hayatann のホームページ兼ブログです。[astro](https://astro.build/)
 - Ruby: 本を読んでいます。
 - Rails: 一回触ったけどピンとこなかったのでまたやり直します。
 - Python: 個人的には苦手です。
+- Flutter: 入門中です。
+- PHP: 基礎文法は理解しました。
 
 ### リンク
 
 - Twitter(趣味垢): [@hayatann39](https://twitter.com/hayatann39)
 - Twitter(技術垢): [@hayatann256](https://twitter.com/hayatann256)
-- Github: [Fasca-kcct](https://github.com/Fasca-kcct)
+- Github: [Hayatann](https://github.com/Hayatann)
 - Discord: [Hayatann#8373](discordapp.com/users/408963028684374016)
