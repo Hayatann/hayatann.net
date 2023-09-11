@@ -127,6 +127,8 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
       <div id="grid-main">
         <PageContent
           title={data.title}
+          date={data.date}
+          update_at={data.update_at}
           headings={headings}
           githubEditUrl={githubEditUrl}
         >
@@ -137,6 +139,6 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
         <RightSidebar headings={headings} githubEditUrl={githubEditUrl} />
       </aside>
     </main>
-    <Footer path={currentFile} />
+    <!-- <Footer path={currentFile} /> -->
   </body>
 </html>

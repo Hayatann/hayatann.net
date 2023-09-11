@@ -1,6 +1,8 @@
 ---
 title: "ようこそ"
 description: "Top"
+date: "2023-03-28"
+update_at: "2023-09-11"
 ---
 
 Hayatann のホームページ兼ブログです。[astro](https://astro.build/)というフレームワークの[docs](https://github.com/withastro/astro/tree/latest/examples/docs?on=github)テーマを使って構築しました。自分のホームページなのに docs テーマなのは単純にこのレイアウトが好きなだけです。ページのアイコンは思い付かなかったので astro のデフォルトのやつになってます。絶賛募集中です!!!!
@@ -10,6 +12,9 @@ Hayatann のホームページ兼ブログです。[astro](https://astro.build/)
 ### 趣味
 
 昔はゲームをいろいろやっていたのですがモチベや体力の関係でほとんどやらなくなってしまいました。今は**音ゲー**と**スマブラ**しか基本してません。
+
+スマブラはスティーブメインでやってます。世界戦闘力は魔境くらいです。
+音ゲーはよくCHUNITHMをやっています。一応虹レ真ん中くらいです。
 
 他に好きなものは**東方 Project**や Vtuber ですかね。東方の原作はいくつかクリアしました。Vtuber は主にホロライブを見ております。
 
@@ -25,9 +30,11 @@ Hayatann のホームページ兼ブログです。[astro](https://astro.build/)
 
 思想といっても怪しい方の思想ではなく，単純にこういう考えですよーっていうだけです(これが好きっていうのに近い)。
 
-- OS: ArchLinux
-- デスクトップ環境: i3-wm / fcitx5-skk
-- エディタ: VSCode, JetBrainsIDE, Sublime Text4, Vim など
+- OS: ArchLinux, macOS
+- デスクトップ環境: i3-wm / Polybar / fcitx5-skk
+- ターミナル: iTerm2 / wezterm
+- Shell: fish / zsh
+- エディタ: VSCode, JetBrainsIDE, Vim など
 - ブラウザ: Firefox-developer-edition
 - キーボード: HHKB
 - レポート: LuaLaTeX
@@ -46,9 +53,9 @@ Hayatann のホームページ兼ブログです。[astro](https://astro.build/)
 - Next.js: プロコンで使いましたがまだこいつの20%くらいの力しか出せていない気がする。
 - Java: これでオブジェクト指向を若干理解しました。
 - Ruby: 本を読んでいます。
-- Rails: 一回触ったけどピンとこなかったのでまたやり直します。
+- Rails: インターンのおかげでちょっとわかってきました。
 - Python: 個人的には苦手です。
-- Flutter: 入門中です。
+- Flutter: プロコンで使用中ですがやっぱり難しい...
 - PHP: 基礎文法は理解しました。
 
 ### リンク
