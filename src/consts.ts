@@ -49,6 +49,10 @@ export const SIDEBAR: Sidebar = {
       { text: "Top", link: "ja/top" },
       // { text: "逆張りについて", link: "ja/gyakubari" },
     ],
-    Blog: [{ text: "新学期について", link: "ja/shingakki" }],
+    Blog: [
+      { text: "新学期について", link: "ja/shingakki" },
+      { text: "2024年になりました", link: "ja/2024" },
+    ],
+    Portfolio: [{ text: "ポートフォリオ", link: "ja/portfolio" }],
   },
 };
