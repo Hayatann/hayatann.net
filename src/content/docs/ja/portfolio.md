@@ -68,6 +68,21 @@ PCを触るのが好きで，高専入学時に電算部という部活を通し
 ### Web系
 #### hayatann.net
 
-***リポジトリ**: [GitHub](https://github.com/Hayatann/hayatann.net)
+**リポジトリ**: [GitHub](https://github.com/Hayatann/hayatann.net)
 
-####
+**技術スタック**: Astro
+
+**開発期間**: 2023年3月から現在
+
+**説明**: このWebサイトです。Astroが爆速なのが感じられるかと思います。いずれはCMS連携もしたいなと思ってます。
+
+### アプリ
+#### wallet-manager
+
+**リポジトリ**: [GitHub](https://github.com/Hayatann/wallet_manager)
+
+**技術スタック**: Flutter
+
+**開発期間**: 2023年8月
+
+**説明**: なるべくシンプルな家計簿アプリを目指しました。sqliteを使ってデバイス側でデータを管理しています。一応グラフ表示機能もあります。今後はsupabaseとか使ってデータ管理したい。
