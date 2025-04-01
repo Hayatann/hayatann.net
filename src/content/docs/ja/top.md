@@ -2,7 +2,7 @@
 title: "ようこそ"
 description: "Top"
 date: "2023-03-28"
-update_at: "2025-01-31"
+update_at: "2025-04-01"
 ---
 
 髙橋 颯(Hayatann) のホームページ兼ブログです。高橋情報技術という屋号で個人事業主を~~半強制的に~~やっています[astro](https://astro.build/)というフレームワークの[docs](https://github.com/withastro/astro/tree/latest/examples/docs?on=github)テーマを使って構築しました。自分のホームページなのに docs テーマなのは単純にこのレイアウトが好きなだけです。faviconは思い付かなかったので astro のデフォルトのやつになってます。絶賛募集中です!!!!
@@ -24,6 +24,8 @@ update_at: "2025-01-31"
 推しキャラに関しては何故か白髪であることが多いですね。東方は妖夢推しです。
 ホロライブは基本箱推しです。今はらでんちゃん，番長来てます。TOEIC対策も兼ねてENの配信もたまに見てます。
 
+2025/04/01追記: 最近Vtuber,東方ともに追えてない...そろそろ引退かもしれない...
+
 ### 所属
 
 神戸高専の電子工学科でいろいろ学ばせていただいてます。部活は電子計算機部という部活で PC を使った活動(主にプログラミング)をしています。kosen21sです。
@@ -41,9 +43,9 @@ update_at: "2025-01-31"
 - ターミナル: iTerm2 / wezterm
 - Shell: fish / zsh
 - エディタ: VSCode, JetBrainsIDE, Vim など
-- ブラウザ: Floorp，Arc, Brave
-- キーボード: HHKB, Keychron K2
-- レポート: LuaLaTeX
+- ブラウザ: Zen Browser, Floorp，Arc
+- キーボード: HHKB, Keychron K2, VGN S99
+- レポート: LuaLaTeX, Typst
 - スマホ: メイン → iPhone15 Pro サブ → Nothing Phone (2a)
 - 腕時計: Apple Watch Series 10
 - エナドリ: RedBull
